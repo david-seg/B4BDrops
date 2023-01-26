@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; settings
 b4bMenuBtn = I 	
-global debugMousePos = true
+global debugMousePos = false
 global sleepBetweenCommands := 20
 
 ; Hot Keys
